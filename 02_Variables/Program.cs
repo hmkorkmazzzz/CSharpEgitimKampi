@@ -12,6 +12,9 @@ namespace _02_Variables
     {
         static void Main(string[] args)
         {
+
+            #region Ders 2
+
             #region Double Değişkenler
 
             //double number;
@@ -194,7 +197,10 @@ namespace _02_Variables
 
             #endregion
 
-            Console.ReadKey();  
+           // Console.ReadKey();
+
+            #endregion
+
         }
     }
 }

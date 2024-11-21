@@ -182,12 +182,7 @@ namespace _01_MainSubjects
 
             #endregion
 
-            #endregion
-
-            
-
-
-
+            #endregion       
 
         }
     }
